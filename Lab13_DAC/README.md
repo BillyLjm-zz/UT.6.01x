@@ -1,4 +1,4 @@
-#Lab11_UART
+#Lab13_DAC
 
 ## Purpose
 Learn to implement a DAC.
