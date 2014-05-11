@@ -1,0 +1,10 @@
+*.o
+*.d
+*.crf
+*.htm
+*.lst
+*.lnp
+*.dep
+*.map
+
+*.BillyLjm
