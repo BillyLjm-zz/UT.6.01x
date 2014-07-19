@@ -4,9 +4,16 @@ This will be a repository for all the lab assignments I've done as part of the U
 I started with coding experience but no electrical engineering knowledge.  
 
 ## MOOC Details
-__Site:__ edX  
+__Site:__ [edX](https://www.edx.org/course/utaustinx/utaustinx-ut-6-01x-embedded-systems-1172)  
 __Date:__ January - May 2014  
 __School:__ University of Texas at Austin  
+
+## Certificate
+* [Certificate](https://s3.amazonaws.com/verify.edx.org/downloads/65da52800acc4f789fb377f5dffd6fef/Certificate.pdf)
+* [Certifcate Verification](https://verify.edx.org/cert/d304d553676444c6928e71a1a80d3161)
+* [My Final Project - Space Invaders](https://github.com/BillyLjm/SpaceInvaders_UT.6.01x)
+* Grade: 100% _(not shown in certificate)_
+
 
 ## Description
 Each folder will contain all the necessary files for the specified lab.  
